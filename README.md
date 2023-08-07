@@ -19,7 +19,7 @@ This is a simple Android application that demonstrates the usage of SQLite datab
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/Divyakumar21202/Android-SQLite-Implementation
    ```
 
 2. Open the project in Android Studio:
